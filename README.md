@@ -9,7 +9,7 @@
 
 ### About Me 
 
-I am a final-year Computer Engineering student at Multimedia University, Cyberjaya with a current CGPA of 3.97/4.00. 
+I am a final-year Computer Engineering student at Multimedia University, Cyberjaya.
 
 I am actively seeking opportunities in computer engineering or software engineering roles. I am passionate about leveraging my technical skills and knowledge to contribute to innovative projects and solutions.
 
