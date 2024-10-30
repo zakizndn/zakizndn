@@ -9,7 +9,7 @@
 
 ### About Me 
 
-Computer Engineering Graduate at Multimedia University, Cyberjaya.
+Computer Engineering Graduate from Multimedia University, Cyberjaya.
 
 ### Find Me
 
