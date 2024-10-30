@@ -9,7 +9,7 @@
 
 ### About Me 
 
-Final-year Computer Engineering student at Multimedia University, Cyberjaya.
+Computer Engineering Graduate at Multimedia University, Cyberjaya.
 
 ### Find Me
 
